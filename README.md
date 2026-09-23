@@ -25,7 +25,7 @@ My journey shifted into high gear with the 2026 AI inflection point. Watching sy
 ### Reach Out
 
 * **Email:** [emmanuelcascascius@gmail.com](mailto:emmanuelcascascius@gmail.com)
-* **GitHub:** [@your-github-username](https://github.com/)
+* **GitHub:** [@your-github-username](https://github.com/emmanuelcascacius-cloud)
 
 *"Code is only as valuable as the real problems it resolves."*
 
