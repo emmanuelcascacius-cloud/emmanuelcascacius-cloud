@@ -2,7 +2,7 @@
 
 I’m a 19-year-old software developer and product builder.
 
-My journey shifted into high gear with the 2026 AI inflection point. Watching systems transition from static scripts to dynamic agents capable of architecting and shipping functional products changed how I looked at software forever. It showed me what is possible—and ever since, I’ve been obsessed with building, breaking, and launching tools that solve practical friction in the real world.
+My passion for software development and code ignited in this AI era when I found out that bringing ideas and building new workflows using AI was always easy.I am a modern developer with strong coding fundamentals and modern agentic coding tools.
 
 ---
 
